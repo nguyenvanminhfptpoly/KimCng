@@ -1,0 +1,22 @@
+<resources>
+    //signin
+    <string name="app_name">Kim Cương</string>
+    <string name="headerlogin">ĐĂNG NHẬP</string>
+    <string name="dangnhap">Đăng nhập</string>
+    <string name="labelemailsignin">Địa chỉ email</string>
+    <string name="inputemail">Email</string>
+    <string name="labelpass">Mật khẩu</string>
+    <string name="inputpass">Mật khẩu</string>
+    <string name="labelsignin">Sign in</string>
+    <string name="labelsignup">Đăng nhập với facebook</string>
+    <string name="footer">Phục vụ bạn là niềm vui của chúng tôi</string>
+    <string name="newuser">Chưa có tài khoản</string>
+    <string name="signintext">Tạo tài khoản</string>
+    //signup
+    <string name="dangky">ĐĂNG KÍ</string>
+    <string name="email">Email</string>
+    <string name="diachiemail">Địa chỉ email</string>
+    <string name="matkhau">Mật khẩu</string>
+    <string name="nhaplaimatkhau">Nhập lại mật khẩu</string>
+    <string name="dangki">Đăng kí</string>
+</resources>
